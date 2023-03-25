@@ -1,4 +1,4 @@
 feature-1 branch
-'modified line ---'
+'feat-1:modified line ---'
 added new changes
 'feat-2' changes
